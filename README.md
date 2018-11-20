@@ -1,10 +1,10 @@
 # anime_filler
 
-This repository contains sample app for listing [Anime Filler List](https://animefillerlist.com) site content.
+This repository contains a sample app for listing [Anime Filler List](https://animefillerlist.com) site content.
 
-All the content showed in the app is fetched from a firebase-firestore via the official flutter plugin.
+All the content showed in the app is fetched from a firebase-firestore via the [official flutter plugin](https://github.com/flutter/plugins/tree/master/packages/cloud_firestore).
 
-The firebase database was populated by JS scripts using puppeteer as a web scraper.
+The firebase database was populated by JS scripts using [puppeteer](https://github.com/GoogleChrome/puppeteer) as a web scraper.
 
 ## TODO
 
