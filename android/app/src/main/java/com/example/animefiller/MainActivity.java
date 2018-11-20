@@ -1,4 +1,4 @@
-package com.example.animefiller;
+package com.pinheirolucas.animefillerlist;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

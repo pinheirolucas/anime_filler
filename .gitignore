@@ -148,3 +148,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+# Firebase
+google-services.json
